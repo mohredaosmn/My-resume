@@ -1,0 +1,25 @@
+*{
+    background-color:khaki;
+}
+img{
+    height: 110px;
+    width: auto;
+    transform:rotate(90deg);
+}
+h2{
+    color:black;
+    
+}
+li{
+    color:darkred
+}
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.wxp{
+    color: darkred;
+}
+footer{
+    color: dimgrey;
+}
